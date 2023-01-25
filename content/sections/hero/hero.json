@@ -1,0 +1,22 @@
+{
+  "intro": "Welcome to",
+  "heroPhoto": {
+    "src": "",
+    "alt": ""
+  },
+  "image": {
+    "src": "",
+    "alt": ""
+  },
+  "title": "Prenlyn Automotive Group",
+  "subtitle": {
+    "prefix": "Where we get the job done ",
+    "highlight": "for you",
+    "suffix": "."
+  },
+  "description": "Expert Automotive Franchise Operators since 1976.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}

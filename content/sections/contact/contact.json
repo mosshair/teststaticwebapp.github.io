@@ -1,0 +1,15 @@
+{
+  "name": "Let's get in touch for inquiries",
+  "email": "example@mail.com",
+  "contact": "2222222",
+  "description": "If you have any problems, make sure to contact us for inquiries.",
+  "image": {
+    "src": "../../images/prenlyn-logo.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
+
